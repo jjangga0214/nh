@@ -42,3 +42,5 @@
 * <span class="fragment">다다음주 : <span style="color: #e49436">중간고사 준비기간</span></span>
 * <span class="fragment">다다다음주 : <span style="color: #e49436">중간고사</span></span>
 * <span class="fragment">다다다다음주 : <span style="color: #e49436">시작</span></span>
+---
+# <span class="fragment">함께 하시겠습니까?</span>
