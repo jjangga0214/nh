@@ -1,9 +1,11 @@
-# Hello There
+# Hello Hacking!
 ---
 #### *We focus on..*
 # <span class="fragment">Network Hacking</span>
 +++
-
+## <span class="fragment">Network Hacking</span>
+## <span class="fragment">Web Client Hacking</span>
+## <span class="fragment">Web Server Hacking</span>
 ---
 #### How to do it?
 ## <span class="fragment">Flipped Learning</span>
@@ -11,8 +13,8 @@
 ## 이론은 스스로
 ## <span class="fragment">모여서는 실습</span>
 +++
-## <span class="fragment">미리 정하는 <span style="color: #e49436">교재</span>, <span style="color: #e49436">동영상</span>, <span style="color: #e49436">자료</span>를 학습해와야 합니다.</span>
-## <span class="fragment">모여서는 같이 신나게 해킹하는 <span style="color: #e49436">실제 방법</span>을 배웁니다.</span>
+#### <span class="fragment">미리 정하는 <span style="color: #e49436">교재</span>, <span style="color: #e49436">동영상</span>, <span style="color: #e49436">자료</span>를 학습해와야 합니다.</span>
+#### <span class="fragment">모여서는 같이 신나게 해킹하는 <span style="color: #e49436">실제 방법</span>을 배웁니다.</span>
 ---
 ## 실습에서는 뭘 해킹할까?
 +++
